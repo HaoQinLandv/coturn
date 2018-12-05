@@ -1,6 +1,15 @@
 coturn (4.5.0.8-1) unstable; urgency=medium
 
   * Sync to upstream 4.5.0.8
+  * Add systemd config
+  * Tidy: wrap-and-sort
+  * Add misi@majd.eu to uploaders
+  * Add upstream metadata
+  * Debian Policy upgraded to 4.2.1
+  * Updated compat from 9 to 11
+  * Install examples/scripts/readme.txt to doc
+  * Upgrade URLs from http to https
+  * Add autopkgtest
 
  -- Mészáros Mihály <misi@majd.eu>  Tue, 27 Nov 2018 12:32:02 +0000
 
